@@ -1,0 +1,10 @@
+LotR Markov Chain Text Composer
+Overview
+Welcome to the "LotR Markov Chain Text Composer" project! This initiative uses Markov Chain algorithms to creatively generate new text based on the scripts from the Lord of the Rings movies. Our goal is to explore and demonstrate the power of probabilistic models in text generation.
+
+Features
+Text Generation: Using Markov chains to synthesize text that mimics the style and context of the LotR scripts.
+Sentiment Analysis: Evaluating the emotional tone of the generated text to understand how it aligns with the original scripts' sentiments.
+Word Clouds: Visual representations of the most frequently occurring words in the generated text, offering insights into thematic consistencies.
+Getting Started
+Prerequisites: Python 3, Jupyter Notebook, and libraries like NumPy, Pandas, NLTK.
